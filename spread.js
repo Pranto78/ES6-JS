@@ -35,3 +35,5 @@ const person = {name : 'khan',age : 23};
 const emp = {designation : 'dev' , ...person};
 
 console.log(emp);
+
+

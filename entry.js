@@ -1,0 +1,24 @@
+const employee = {
+    name: 'Raja Rani',
+    designation: 'QA',
+    salary: '15000',
+    experience: 1
+
+}
+
+
+
+const keys = Object.keys(employee);
+
+const values = Object.values(employee);
+
+const entries = Object.entries(employee);
+
+console.log(keys);
+console.log(values);
+console.log(entries);
+
+
+
+
+
